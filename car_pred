@@ -1,0 +1,26 @@
+€csklearn.linear_model._base
+LinearRegression
+q )q}q(X
+   fit_interceptqˆX	   normalizeqX
+   deprecatedqX   copy_XqˆX   n_jobsq NX   positiveq‰X   feature_names_in_q	cnumpy.core.multiarray
+_reconstruct
+q
+cnumpy
+ndarray
+q
+K …qCbq
+‡qRq(KK	…qcnumpy
+dtype
+qX   O8q‰ˆ‡qRq(KX   |qNNNJÿÿÿÿJÿÿÿÿK?tqb‰]q(X   yearqX
+   seller_typeqX	   km_drivenqX	   fuel_typeqX   transmission_typeqX    mileageqX   engineqX	   max_powerqX   seatsq etq!bX   n_features_in_q"K	X   coef_q#h
+h
+K …q$h
+‡q%Rq&(KK	…q'hX   f8q(‰ˆ‡q)Rq*(KX   <q+NNNJÿÿÿÿJÿÿÿÿK tq,b‰CH‹¥®û¢ß?ñ.€	R×¿  ¨®”¢Ñ¾üı0ö9ê¿ªì‚Ú(¨ @ûdğ.s¡¿á’UFX“^?ˆÈj¶†¦?P°©°šİl?q-tq.bX	   _residuesq/cnumpy.core.multiarray
+scalar
+q0h*Cğ4Ú
+ğ@q1†q2Rq3X   rank_q4K	X	   singular_q5h
+h
+K …q6h
+‡q7Rq8(KK	…q9h*‰CHÔÛäTA…
+²tK}ê@Œ²%¼¦@ë½…Ú?†|@úÈZ(TŸs@åùo …R@6±’¤-ıM@lÏ’-J@åyÁ-#ÒB@q:tq;bX
+   intercept_q<h0h*C<GGh´!Àq=†q>Rq?X   _sklearn_versionq@X   1.0.2qAub.
